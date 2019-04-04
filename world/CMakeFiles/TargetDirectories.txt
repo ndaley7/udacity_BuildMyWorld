@@ -1,3 +1,0 @@
-/home/robond/Desktop/UdacityProjects/Buildmyworld/udacity_BuildMyWorld/world/CMakeFiles/edit_cache.dir
-/home/robond/Desktop/UdacityProjects/Buildmyworld/udacity_BuildMyWorld/world/CMakeFiles/rebuild_cache.dir
-/home/robond/Desktop/UdacityProjects/Buildmyworld/udacity_BuildMyWorld/world/CMakeFiles/welcome.dir
